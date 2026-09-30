@@ -5,12 +5,7 @@
 ## Project Overview
 The idea of this project is to output sheet music for pitched instruments by inputting
 audio files.
-As a drummer, I often like to read drum notation when learning or playing along with a
-song, but transcriptions are often not available online or are not accurate. However,
-since getting accurate drum transcription is more difficult, we are currently planning to
-focus on pitched instruments that audio-to-MIDI models such as Basic Pitch are better
-suited for.
-I imagine that any musician could benefit from this, since it eliminates the need for
+We imagine that any musician could benefit from this, since it eliminates the need for
 writing down sheet music manually, or trying to remember the whole song from the first
 time one starts to play it.
 While this is a relatively niche idea, it would be really useful for instrumentalists.
